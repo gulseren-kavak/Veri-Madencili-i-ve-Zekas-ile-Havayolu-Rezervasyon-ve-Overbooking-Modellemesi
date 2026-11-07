@@ -1,0 +1,21 @@
+IATA_CODE,AIRPORT,CITY,STATE,LATITUDE,LONGITUDE
+JFK,John F. Kennedy Intl,New York,NY,40.64,-73.78
+LAX,Los Angeles Intl,Los Angeles,CA,33.94,-118.41
+ORD,O'Hare Intl,Chicago,IL,41.97,-87.91
+ATL,Hartsfield-Jackson Intl,Atlanta,GA,33.64,-84.43
+DFW,Dallas/Fort Worth Intl,Dallas,TX,32.9,-97.04
+DEN,Denver Intl,Denver,CO,39.86,-104.67
+SFO,San Francisco Intl,San Francisco,CA,37.62,-122.38
+SEA,Seattle-Tacoma Intl,Seattle,WA,47.45,-122.31
+MIA,Miami Intl,Miami,FL,25.79,-80.29
+BOS,Boston Logan Intl,Boston,MA,42.36,-71.01
+LAS,McCarran Intl,Las Vegas,NV,36.08,-115.15
+MCO,Orlando Intl,Orlando,FL,28.43,-81.31
+CLT,Charlotte Douglas Intl,Charlotte,NC,35.21,-80.94
+PHX,Phoenix Sky Harbor,Phoenix,AZ,33.43,-112.01
+IAH,George Bush Intl,Houston,TX,29.98,-95.34
+MSP,Minneapolis-Saint Paul Intl,Minneapolis,MN,44.88,-93.22
+DTW,Detroit Metro Wayne,Detroit,MI,42.21,-83.35
+EWR,Newark Liberty Intl,Newark,NJ,40.69,-74.17
+PHL,Philadelphia Intl,Philadelphia,PA,39.87,-75.24
+BWI,Baltimore-Washington Intl,Baltimore,MD,39.17,-76.67

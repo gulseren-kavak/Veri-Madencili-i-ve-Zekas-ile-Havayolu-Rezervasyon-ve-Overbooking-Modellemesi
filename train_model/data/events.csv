@@ -1,0 +1,173 @@
+DATE,EVENT_NAME,CITY,IMPACT_FACTOR,EVENT_TYPE
+2026-02-08,Super Bowl,Phoenix,0.937,sport
+2026-02-09,Super Bowl,Phoenix,0.995,sport
+2026-02-10,Super Bowl,Phoenix,0.973,sport
+2026-02-15,NBA All-Star Game,Atlanta,0.81,sport
+2026-02-16,NBA All-Star Game,Atlanta,0.766,sport
+2026-02-25,Mardi Gras,New York,0.666,festival
+2026-02-26,Mardi Gras,New York,0.656,festival
+2026-02-27,Mardi Gras,New York,0.737,festival
+2026-02-28,Mardi Gras,New York,0.71,festival
+2026-03-01,Mardi Gras,New York,0.721,festival
+2026-03-15,Spring Break Peak,Miami,0.802,conference
+2026-03-16,Spring Break Peak,Miami,0.897,conference
+2026-03-17,Spring Break Peak,Miami,0.883,conference
+2026-03-18,Spring Break Peak,Miami,0.821,conference
+2026-03-19,Spring Break Peak,Miami,0.818,conference
+2026-03-20,Spring Break Peak,Miami,0.818,conference
+2026-03-21,Spring Break Peak,Miami,0.83,conference
+2026-03-22,Spring Break Peak,Miami,0.852,conference
+2026-03-23,Spring Break Peak,Miami,0.843,conference
+2026-03-24,Spring Break Peak,Miami,0.829,conference
+2026-03-25,Spring Break Peak,Miami,0.861,conference
+2026-03-26,Spring Break Peak,Miami,0.814,conference
+2026-03-27,Spring Break Peak,Miami,0.829,conference
+2026-03-28,Spring Break Peak,Miami,0.837,conference
+2026-04-10,Masters Golf Tournament,Atlanta,0.746,sport
+2026-04-11,Masters Golf Tournament,Atlanta,0.779,sport
+2026-04-12,Masters Golf Tournament,Atlanta,0.72,sport
+2026-04-13,Masters Golf Tournament,Atlanta,0.751,sport
+2026-04-20,Boston Marathon,Boston,0.659,sport
+2026-04-21,Boston Marathon,Boston,0.605,sport
+2026-05-03,Kentucky Derby,Charlotte,0.611,sport
+2026-05-04,Kentucky Derby,Charlotte,0.567,sport
+2026-05-05,Kentucky Derby,Charlotte,0.557,sport
+2026-05-24,Memorial Day Weekend,ALL,0.845,holiday
+2026-05-25,Memorial Day Weekend,ALL,0.847,holiday
+2026-05-26,Memorial Day Weekend,ALL,0.831,holiday
+2026-05-27,Memorial Day Weekend,ALL,0.78,holiday
+2026-06-15,Summer Travel Peak,ALL,0.46,conference
+2026-06-16,Summer Travel Peak,ALL,0.518,conference
+2026-06-17,Summer Travel Peak,ALL,0.494,conference
+2026-06-18,Summer Travel Peak,ALL,0.462,conference
+2026-06-19,Summer Travel Peak,ALL,0.5,conference
+2026-06-20,Summer Travel Peak,ALL,0.453,conference
+2026-06-21,Summer Travel Peak,ALL,0.541,conference
+2026-06-22,Summer Travel Peak,ALL,0.476,conference
+2026-06-23,Summer Travel Peak,ALL,0.516,conference
+2026-06-24,Summer Travel Peak,ALL,0.481,conference
+2026-06-25,Summer Travel Peak,ALL,0.502,conference
+2026-06-26,Summer Travel Peak,ALL,0.505,conference
+2026-06-27,Summer Travel Peak,ALL,0.468,conference
+2026-06-28,Summer Travel Peak,ALL,0.547,conference
+2026-06-29,Summer Travel Peak,ALL,0.528,conference
+2026-06-30,Summer Travel Peak,ALL,0.544,conference
+2026-07-01,Summer Travel Peak,ALL,0.539,conference
+2026-07-02,Summer Travel Peak,ALL,0.51,conference
+2026-07-03,Summer Travel Peak,ALL,0.542,conference
+2026-07-04,Summer Travel Peak,ALL,0.459,conference
+2026-07-05,Summer Travel Peak,ALL,0.47,conference
+2026-07-06,Summer Travel Peak,ALL,0.455,conference
+2026-07-07,Summer Travel Peak,ALL,0.483,conference
+2026-07-08,Summer Travel Peak,ALL,0.489,conference
+2026-07-09,Summer Travel Peak,ALL,0.477,conference
+2026-07-10,Summer Travel Peak,ALL,0.533,conference
+2026-07-11,Summer Travel Peak,ALL,0.486,conference
+2026-07-12,Summer Travel Peak,ALL,0.478,conference
+2026-07-13,Summer Travel Peak,ALL,0.504,conference
+2026-07-14,Summer Travel Peak,ALL,0.464,conference
+2026-07-15,Summer Travel Peak,ALL,0.53,conference
+2026-07-16,Summer Travel Peak,ALL,0.457,conference
+2026-07-17,Summer Travel Peak,ALL,0.549,conference
+2026-07-18,Summer Travel Peak,ALL,0.527,conference
+2026-07-19,Summer Travel Peak,ALL,0.47,conference
+2026-07-20,Summer Travel Peak,ALL,0.451,conference
+2026-07-21,Summer Travel Peak,ALL,0.532,conference
+2026-07-22,Summer Travel Peak,ALL,0.521,conference
+2026-07-23,Summer Travel Peak,ALL,0.523,conference
+2026-07-24,Summer Travel Peak,ALL,0.527,conference
+2026-07-25,Summer Travel Peak,ALL,0.457,conference
+2026-07-26,Summer Travel Peak,ALL,0.486,conference
+2026-07-27,Summer Travel Peak,ALL,0.462,conference
+2026-07-28,Summer Travel Peak,ALL,0.536,conference
+2026-07-29,Summer Travel Peak,ALL,0.512,conference
+2026-07-30,Summer Travel Peak,ALL,0.483,conference
+2026-07-31,Summer Travel Peak,ALL,0.456,conference
+2026-08-01,Summer Travel Peak,ALL,0.481,conference
+2026-08-02,Summer Travel Peak,ALL,0.483,conference
+2026-08-03,Summer Travel Peak,ALL,0.523,conference
+2026-08-04,Summer Travel Peak,ALL,0.514,conference
+2026-08-05,Summer Travel Peak,ALL,0.539,conference
+2026-08-06,Summer Travel Peak,ALL,0.497,conference
+2026-08-07,Summer Travel Peak,ALL,0.462,conference
+2026-08-08,Summer Travel Peak,ALL,0.521,conference
+2026-08-09,Summer Travel Peak,ALL,0.526,conference
+2026-08-10,Summer Travel Peak,ALL,0.506,conference
+2026-08-11,Summer Travel Peak,ALL,0.527,conference
+2026-08-12,Summer Travel Peak,ALL,0.499,conference
+2026-08-13,Summer Travel Peak,ALL,0.502,conference
+2026-07-02,Independence Day,ALL,0.893,holiday
+2026-07-03,Independence Day,ALL,0.853,holiday
+2026-07-04,Independence Day,ALL,0.861,holiday
+2026-07-05,Independence Day,ALL,0.853,holiday
+2026-07-06,Independence Day,ALL,0.914,holiday
+2026-07-20,Comic-Con,San Francisco,0.681,festival
+2026-07-21,Comic-Con,San Francisco,0.701,festival
+2026-07-22,Comic-Con,San Francisco,0.741,festival
+2026-07-23,Comic-Con,San Francisco,0.675,festival
+2026-07-24,Comic-Con,San Francisco,0.691,festival
+2026-07-31,Music Festival – Lollapalooza,Chicago,0.776,festival
+2026-08-01,Music Festival – Lollapalooza,Chicago,0.723,festival
+2026-08-02,Music Festival – Lollapalooza,Chicago,0.708,festival
+2026-08-03,Music Festival – Lollapalooza,Chicago,0.729,festival
+2026-08-25,US Open Tennis,New York,0.766,sport
+2026-08-26,US Open Tennis,New York,0.843,sport
+2026-08-27,US Open Tennis,New York,0.831,sport
+2026-08-28,US Open Tennis,New York,0.813,sport
+2026-08-29,US Open Tennis,New York,0.837,sport
+2026-08-30,US Open Tennis,New York,0.83,sport
+2026-08-31,US Open Tennis,New York,0.769,sport
+2026-09-01,US Open Tennis,New York,0.839,sport
+2026-09-02,US Open Tennis,New York,0.804,sport
+2026-09-03,US Open Tennis,New York,0.831,sport
+2026-09-04,US Open Tennis,New York,0.84,sport
+2026-09-05,US Open Tennis,New York,0.782,sport
+2026-09-06,US Open Tennis,New York,0.761,sport
+2026-09-07,US Open Tennis,New York,0.773,sport
+2026-09-01,Labor Day Weekend,ALL,0.843,holiday
+2026-09-02,Labor Day Weekend,ALL,0.882,holiday
+2026-09-03,Labor Day Weekend,ALL,0.886,holiday
+2026-09-04,Labor Day Weekend,ALL,0.801,holiday
+2026-10-29,Halloween Weekend,Las Vegas,0.701,conference
+2026-10-30,Halloween Weekend,Las Vegas,0.692,conference
+2026-10-31,Halloween Weekend,Las Vegas,0.672,conference
+2026-11-01,Halloween Weekend,Las Vegas,0.662,conference
+2026-11-25,Thanksgiving,ALL,0.934,holiday
+2026-11-26,Thanksgiving,ALL,0.994,holiday
+2026-11-27,Thanksgiving,ALL,0.932,holiday
+2026-11-28,Thanksgiving,ALL,0.952,holiday
+2026-11-29,Thanksgiving,ALL,0.97,holiday
+2026-11-30,Thanksgiving,ALL,0.936,holiday
+2026-12-01,Thanksgiving,ALL,0.997,holiday
+2026-12-20,Christmas & New Year,ALL,0.966,holiday
+2026-12-21,Christmas & New Year,ALL,0.895,holiday
+2026-12-22,Christmas & New Year,ALL,0.92,holiday
+2026-12-23,Christmas & New Year,ALL,0.9,holiday
+2026-12-24,Christmas & New Year,ALL,0.898,holiday
+2026-12-25,Christmas & New Year,ALL,0.874,holiday
+2026-12-26,Christmas & New Year,ALL,0.931,holiday
+2026-12-27,Christmas & New Year,ALL,0.92,holiday
+2026-12-28,Christmas & New Year,ALL,0.875,holiday
+2026-12-29,Christmas & New Year,ALL,0.898,holiday
+2026-12-30,Christmas & New Year,ALL,0.961,holiday
+2026-12-31,Christmas & New Year,ALL,0.894,holiday
+2027-01-01,Christmas & New Year,ALL,0.884,holiday
+2027-01-02,Christmas & New Year,ALL,0.919,holiday
+2027-01-03,Christmas & New Year,ALL,0.969,holiday
+2026-10-26,Barcelona FC vs Real Madrid (El Clasico TV Event),New York,0.574,sport
+2026-10-27,Barcelona FC vs Real Madrid (El Clasico TV Event),New York,0.617,sport
+2026-03-25,World Cup Qualifier,Houston,0.676,sport
+2026-03-26,World Cup Qualifier,Houston,0.624,sport
+2026-04-05,Street Food Festival,Los Angeles,0.573,festival
+2026-04-06,Street Food Festival,Los Angeles,0.537,festival
+2026-04-07,Street Food Festival,Los Angeles,0.563,festival
+2026-01-07,Tech Summit CES,Las Vegas,0.863,conference
+2026-01-08,Tech Summit CES,Las Vegas,0.854,conference
+2026-01-09,Tech Summit CES,Las Vegas,0.809,conference
+2026-01-10,Tech Summit CES,Las Vegas,0.884,conference
+2026-01-11,Tech Summit CES,Las Vegas,0.832,conference
+2026-12-01,Art Basel,Miami,0.769,festival
+2026-12-02,Art Basel,Miami,0.754,festival
+2026-12-03,Art Basel,Miami,0.809,festival
+2026-12-04,Art Basel,Miami,0.818,festival
+2026-12-05,Art Basel,Miami,0.752,festival
